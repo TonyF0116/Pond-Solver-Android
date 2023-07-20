@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pond_Solver</string>
+    <string name="string_unsolvable">Unsolvable</string>
+    <string name="string_next">Next</string>
+    <string name="string_prev">Prev</string>
+    <string name="string_text_view_initial">Place the blocks!</string>
+    <string name="string_add_block_success">Block added successfully!</string>
+    <string name="string_add_block_fail">Unable to recognize block position.\nPlease try again.</string>
+    <string name="string_invalid_block">Invalid block type.</string>
+    <string name="string_undo">Undo</string>
+    <string name="string_solve">Solve</string>
+    <string name="string_back">Back</string>
+</resources>
